@@ -69,3 +69,11 @@ Al momento de tener todo preparado para lanzarme al diseño web, antes me pude i
 Diseñé cada una de las secciones antes mencionadas, las posicioné y las adapté conforme a los elementos y herramientas anteriormente dicho. 
 Al finalizar se lo mande a diversas personas tanto como diseñadores como personas ordianrias y obtuve su aprobación y opinión personal.
 
+<img width="500px" src="https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
+
+# Objetivos futuros
+####** Organización**
+A pesar de que pude aprender bastante con las herramientas de figma y conseguir nuevas habilidades que muestran mi progreso cada día en mis diseños web, siento que mi nivel de organización también necesita mejorarse, ya que es una parte fundamental para el trabajo laboral que se requiere en una empresa, el organizar todo mi trabajo muestra la profesionalidad del mismo en el cual debo de demostrar en cualquier aspecto del diseño, ya sea organizando capas, nombrando grupos con nombres respectivos, haciendo carpetas para cada elemento, posicionar bien mi estructura etc. mi organización es importante para que otros diseñadores comprendan con más facilidad el trabajo y podamos llegar más lejos en términos generales.
+
+
+
