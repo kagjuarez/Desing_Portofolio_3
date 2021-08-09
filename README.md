@@ -53,3 +53,12 @@ Luego de aprender un poco sobre figma empiezo a diseñar mi sitio web en donde m
 - Footer
 <img width="300px" src="https://i.pinimg.com/564x/c3/37/55/c337550278063c4f9a76ae704b704830.jpg">
 
+# Componentes
+Para el diseño de mi portafolio web necesitaba componentes o elementos que se repiten constantemente para la contrucción del mismo, por ejemplo investigue los iconos necesarios para mi plataforma, la tipografia y los colores.
+<br><br/>
+<img width="300px" src= "https://i.pinimg.com/564x/0b/bd/6b/0bbd6bc201e4f0b1f7bbd2aaf975c207.jpg">
+<br><br/>
+<img width="300px" src= "https://i.pinimg.com/564x/f1/29/e2/f129e20fe1bd7e03c8796d0ed3098da5.jpg">
+<br><br/>
+<img width="300px" src= "https://i.pinimg.com/564x/70/35/c0/7035c09a2b795b4d983d94c56f044a7a.jpg">
+
