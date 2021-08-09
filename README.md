@@ -39,3 +39,17 @@ Poder trabajar con dedicación y espero para en la mayoría de edad en la cual n
 Adquirir el hábito de mejorar mis habilidades con el diseño, la elección de tipografías, las paletas de colores, herramientas que ayuden a mejorar mis diseños etc. El trabajar con ello en la mayoría de días adquiriré el hábito de tener experiencias en las cosas que hago profesionalmente para el mundo del diseño.
 
 <img width="400px" src="https://cdn.dribbble.com/users/1361661/screenshots/6685074/_____3___2_2x.png?compress=1&resize=800x600">
+
+# Portafolio - keiry
+### Proceso
+Lo primero que hice al momento de contruir mi portafolio fue adentrarme a la herramienta de figma en la cual es un programa muy útil para el diseño web, aprendi sobre sus herramientas básicas, como creación de frames, colores, componentes, fomrmas, alineación, texto etc.
+Luego de aprender un poco sobre figma empiezo a diseñar mi sitio web en donde muestro mis trabajos profesionales a nivel de estudiante de diseño gráfico, luego creo diversas secciones en el cual se dividen en 
+- Menú de navegación
+- Banner
+- Presentación personal + fotografia
+- Programas que domino
+- 3 mejores proyectos
+- Contacto 
+- Footer
+<img width="300px" src="https://i.pinimg.com/564x/c3/37/55/c337550278063c4f9a76ae704b704830.jpg">
+
