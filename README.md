@@ -37,3 +37,5 @@ Analizar cada uno de los conceptos que se otorgarán en los fundamentos del dise
 Poder trabajar con dedicación y espero para en la mayoría de edad en la cual no solo entregar trabajos satisfactorios, sino que mejorar cada una de mis habilidades que me ayudan a entregar mis tareas con puntualidad y demás.
 ### Saber ser y estar
 Adquirir el hábito de mejorar mis habilidades con el diseño, la elección de tipografías, las paletas de colores, herramientas que ayuden a mejorar mis diseños etc. El trabajar con ello en la mayoría de días adquiriré el hábito de tener experiencias en las cosas que hago profesionalmente para el mundo del diseño.
+
+<img width="400px" src="https://cdn.dribbble.com/users/1361661/screenshots/6685074/_____3___2_2x.png?compress=1&resize=800x600">
