@@ -28,6 +28,8 @@ width="200px" src="https://static.wixstatic.com/media/d1b317_30d85a06c73e4bc7bf0
 	- Descripción
 	- Proceso de creación
 	- FIgma
+	- Armado
+	- Objetivos futuros
 
 <br><br/>
 # Objetivos
