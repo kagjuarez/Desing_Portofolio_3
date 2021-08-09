@@ -62,3 +62,8 @@ Para el diseño de mi portafolio web necesitaba componentes o elementos que se r
 <br><br/>
 <img width="300px" src= "https://i.pinimg.com/564x/70/35/c0/7035c09a2b795b4d983d94c56f044a7a.jpg">
 
+# Armado
+Al momento de tener todo preparado para lanzarme al diseño web, antes me pude inspirar en diversas plataformas y aprender sobre lo que otros diseñadores hacer para realizar sus trabajor y pude mejorar cada habilidad que iba poniendo en mi portafolio
+Diseñé cada una de las secciones antes mencionadas, las posicioné y las adapté conforme a los elementos y herramientas anteriormente dicho. 
+Al finalizar se lo mande a diversas personas tanto como diseñadores como personas ordianrias y obtuve su aprobación y opinión personal.
+
